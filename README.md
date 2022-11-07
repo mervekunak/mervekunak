@@ -1,4 +1,4 @@
-<h3 align="center">Hiii!! 👋 I'm Merve  💁‍♀️ 💅 💞 </h3>
+<h3 align="center">Hiii!! 👋 I'm Merve  💁‍♀️ 💞 </h3>
 
 ##
 <h3 align="left">A little bit about me:</h3>
